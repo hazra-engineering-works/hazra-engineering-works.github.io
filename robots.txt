@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hazra-engineering-works.github.io/sitemap.xml
